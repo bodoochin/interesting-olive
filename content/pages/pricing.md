@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - title: Хэзээд үнэгүй
         subtitle: Хэзээд онлайн
-        price: $49/m
+        price: $0/m
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula pellentesque dolor
