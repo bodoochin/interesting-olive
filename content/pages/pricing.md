@@ -10,12 +10,12 @@ sections:
       - title: Хэзээд үнэгүй
         subtitle: Хэзээд онлайн
         price: $0/m
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
+        details: |
+          *   Сар тутам
+          *   Шинэлэг
+          *   Чанартай
+          *   Нээлттэй
+          *   Нухацтай
         highlight: true
         actions: []
 seo:
