@@ -37,7 +37,7 @@
                 "type": "footer_text",
                 "image_url": "/",
                 "image_alt": "Footer logo",
-                "content": "Stackbit theme demo"
+                "content": "![](/images/nervous-sunflower.png)\n"
             },
             {
                 "type": "footer_nav",
