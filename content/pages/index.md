@@ -24,10 +24,10 @@ sections:
       - title: Хөгжлийн хүчний эрэлд
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >+
+          *Аймгуудын хөгжлийн түвшинг сүүлийн 30 жилд зарцуулсан жилийн дундаж
+          зардалтай нь холбож харвал нэлээд тэгш бус байдал ажиглагдана.*
+
         actions:
           - label: Learn More
             url: /features
