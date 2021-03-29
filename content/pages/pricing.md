@@ -12,9 +12,13 @@ sections:
         price: $0/m
         details: |
           *   Сар тутам
+
           *   Шинэлэг
+
           *   Чанартай
+
           *   Нээлттэй
+
           *   Нухацтай
         highlight: true
         actions: []
