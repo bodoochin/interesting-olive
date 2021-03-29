@@ -1,5 +1,4 @@
 ---
-title: lorem-ipsum
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
