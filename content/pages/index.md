@@ -22,7 +22,7 @@ sections:
       quis lorem malesuada luctus.
     features:
       - title: Хөгжлийн хүчний эрэлд
-        image: images/feature1.png
+        image: images/79854241_2723081367779805_6274773286165413888_o.jpg
         image_alt: App preview on a phone and tablet
         content: >+
           *Аймгуудын хөгжлийн түвшинг сүүлийн 30 жилд зарцуулсан жилийн дундаж
