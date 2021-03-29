@@ -5,7 +5,6 @@ sections:
     type: section_pricing
     background: gray
     title: Захиалга
-    subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
       - title: Хэзээд үнэгүй
         subtitle: Хэзээд онлайн
