@@ -17,10 +17,7 @@ sections:
           * Fusce tempus mi vitae luctus
           * Nullam sollicitudin ante
         highlight: true
-        actions:
-          - label: Order Now
-            url: /signup
-            style: primary
+        actions: []
   - section_id: faq
     type: section_faq
     background: gray
