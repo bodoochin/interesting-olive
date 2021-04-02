@@ -88,6 +88,12 @@ sections:
           $4.5 тэрбум байгаа, гадаад орчинд эерэг салхи сэвэлзэж, манай
           экспортын үнэ өсч байгаа энэ үед ханш санаа зовоох асуудал бус, харин
           эдийн засгаа сэргээх нь чухал юм.
+      - author: lorem-ipsum
+        avatar_alt: lorem-ipsum
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        type: review_item
   - section_id: call-to-action
     type: section_cta
     title: Дуугарвал дуу нэг
