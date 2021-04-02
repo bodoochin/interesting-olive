@@ -84,8 +84,10 @@ sections:
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Эдийн засагт идэвхжил сул, инфляц 2%, импорт саарч харин валютын нѳѳц
+          $4.5 тэрбум байгаа, гадаад орчинд эерэг салхи сэвэлзэж, манай
+          экспортын үнэ өсч байгаа энэ үед ханш санаа зовоох асуудал бус, харин
+          эдийн засгаа сэргээх нь чухал юм.
   - section_id: call-to-action
     type: section_cta
     title: Дуугарвал дуу нэг
