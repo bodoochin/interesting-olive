@@ -87,9 +87,6 @@ sections:
           Эдийн засагт идэвхжил сул, инфляц 2%, импорт саарч харин валютын нѳѳц
           $4.5 тэрбум байгаа, гадаад орчинд эерэг салхи сэвэлзэж, манай
           экспортын үнэ өсөж байгаа энэ үед ханш санаа зовоох асуудал бус.
-      - author: lorem-ipsum
-        avatar_alt: lorem-ipsum
-        type: review_item
   - section_id: call-to-action
     type: section_cta
     title: Дуугарвал дуу нэг
