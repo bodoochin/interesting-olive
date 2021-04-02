@@ -74,7 +74,7 @@ sections:
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Энхбаяр
+      - author: Намжилдоржийн Энхбаяр
         avatar_alt: lorem-ipsum
         content: >-
           Аливаа вирус байгалийн бүтээл, байгалийн хууль, шинжлэх ухаанд л
