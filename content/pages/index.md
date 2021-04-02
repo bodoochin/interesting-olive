@@ -77,7 +77,7 @@ sections:
         type: review_item
         avatar: images/parallel-coriander.jpg
       - author: Баатарын Болд
-        avatar: images/167644395_2987642394793132_7371428569479530996_n.jpg
+        avatar: images/10.jpg
         avatar_alt: Parsley Montana's photo
         content: "Бид 11 тэрбум ам.долларыг зарцуулж байна. Энэ бол ганцхан хөрөнгө оруулагчаас гарч байгаа зардал. Хөрөнгө оруулалт гэхээр хөрөнгө авч байгаа мэт ойлгож болохгүй.\_ Хөрөнгө оруулалт бол\_ манай компаниас гарч байгаа зардал."
       - author: Jonquil Von Haggerston
