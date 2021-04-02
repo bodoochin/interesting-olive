@@ -90,13 +90,6 @@ sections:
       - author: lorem-ipsum
         avatar_alt: lorem-ipsum
         content: >-
-          Аливаа вирус байгалийн бүтээл, байгалийн хууль, шинжлэх ухаанд л
-          захирагдахаас бус улс төрчдийн уриа лоозон, тогтоол шийдвэрт
-          захирагддаг зүйл биш гэдгийг хатуу ойлго
-        type: review_item
-      - author: lorem-ipsum
-        avatar_alt: lorem-ipsum
-        content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         type: review_item
