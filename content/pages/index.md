@@ -81,7 +81,7 @@ sections:
           захирагдахаас бус улс төрчдийн уриа лоозон, тогтоол шийдвэрт
           захирагддаг зүйл биш гэдгийг хатуу ойлго! ☝
         type: review_item
-        avatar: images/Untitled-1_dYOXtfR.jpg
+        avatar: images/parallel-coriander.jpg
       - author: Parsley Montana
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
