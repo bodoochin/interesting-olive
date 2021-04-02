@@ -70,7 +70,6 @@ sections:
     reviews:
       - author: Намжилдоржийн Энхбаяр
         avatar_alt: lorem-ipsum
-        content: "Аливаа вирус байгалийн бүтээл, байгалийн хууль, шинжлэх ухаанд л захирагдахаас бус улс төрчдийн уриа лоозон, тогтоол шийдвэрт захирагддаг зүйл биш гэдгийг хатуу ойлго!\_☝"
         type: review_item
         avatar: images/parallel-coriander.jpg
       - author: Баатарын Болд
