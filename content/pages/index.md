@@ -77,7 +77,7 @@ sections:
         avatar_alt: Parsley Montana's photo
         content: "Бид 11 тэрбум ам.долларыг зарцуулж байна. Энэ бол ганцхан хөрөнгө оруулагчаас гарч байгаа зардал. Хөрөнгө оруулалт гэхээр хөрөнгө авч байгаа мэт ойлгож болохгүй.\_ Хөрөнгө оруулалт бол\_ манай компаниас гарч байгаа зардал."
         avatar: images/magnificent-crane.jpg
-      - author: Jonquil Von Haggerston
+      - author: Бядрангийн Лхагвасүрэн
         avatar: images/governor1.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
