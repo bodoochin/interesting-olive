@@ -89,7 +89,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Дуугарвал дуу нэг
-    subtitle: This is an optional description for the call to action block.
+    subtitle: bodoochin@gmail.com
     actions:
       - label: Get Started
         url: /signup
