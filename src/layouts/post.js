@@ -16,6 +16,7 @@ export default class Post extends React.Component {
                     <h1 className="post-title">{_.get(this.props, 'page.frontmatter.title', null)}</h1>
                     {_.get(this.props, 'page.frontmatter.subtitle', null) && (
                     
+                    
                     )}
                   </header>
                   {_.get(this.props, 'page.frontmatter.image', null) && (
