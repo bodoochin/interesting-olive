@@ -1,5 +1,4 @@
 ---
-title: lorem-ipsum
 subtitle: lorem-ipsum
 date: '2021-04-15'
 excerpt: lorem-ipsum
