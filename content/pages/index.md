@@ -53,7 +53,7 @@ sections:
         content: |
           2020 оны 6 дугаар сарын 6-нд
         actions:
-          - label: Learn More
+          - label: Дэлгэрэнгүй
             url: /features
             style: secondary
             has_icon: true
