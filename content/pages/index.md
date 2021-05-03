@@ -48,7 +48,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: 'Бод Бод бэсрэг сэтгүүл, дугаар 3'
-        image: images/poster3.png
+        image: images/poster-3.png
         image_alt: App user profile preview
         content: |
           2020 оны 6 дугаар сарын 6-нд
