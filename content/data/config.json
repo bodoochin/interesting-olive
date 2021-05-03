@@ -9,18 +9,18 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
+                "label": "Нүүр",
                 "url": "/",
                 "style": "link",
                 "icon_position": "left"
             },
             {
-                "label": "Features",
+                "label": "Онцлох",
                 "url": "/features",
                 "style": "link"
             },
             {
-                "label": "Pricing",
+                "label": "Холбоо барих",
                 "url": "/pricing",
                 "style": "link"
             },
@@ -35,10 +35,9 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/logo-alt.svg",
                 "image_url": "/",
                 "image_alt": "Footer logo",
-                "content": "Stackbit theme demo"
+                "content": "![](/images/nervous-sunflower.png)\n"
             },
             {
                 "type": "footer_nav",

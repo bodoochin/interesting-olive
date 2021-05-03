@@ -3,61 +3,54 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/poster.png
     image_alt: App preview
-    title: This Is A Big Hero Headline
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    title: "Дан бодлын\_ \_ бэсрэг сэтгүүл"
+    content: >
+      ###### Толгойд эргэлдсэн асуултуудад хариулт эрсэн эрэл. Тохиох цагийн
+      бүртгэлийг тоймлож харсан зураглал.
     actions:
-      - label: Learn More
-        url: /features
+      - label: Дэлгэрэнгүй
         style: primary
+        url: 'https://storyform.co/@elbegsaikhan.ts/---4aae2c074323'
   - section_id: features
     type: section_features
     background: gray
-    title: Features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    title: САНАЛ БОЛГОЁ
     features:
-      - title: Хөгжлийн хүчний эрэлд
-        image: images/79854241_2723081367779805_6274773286165413888_o.jpg
+      - title: 'Бод Бод бэсрэг сэтгүүл, дугаар 1'
+        image: images/cover.PNG
         image_alt: App preview on a phone and tablet
         content: >+
           *Аймгуудын хөгжлийн түвшинг сүүлийн 30 жилд зарцуулсан жилийн дундаж
           зардалтай нь холбож харвал нэлээд тэгш бус байдал ажиглагдана.*
 
         actions:
-          - label: Learn More
+          - label: Дэлгэрэнгүй
             style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
             url: 'https://storyform.co/@elbegsaikhan.ts/---4aae2c074323'
-      - title: Awesome Feature of Your Services
-        image: images/feature2.png
+      - title: 'Бод Бод бэсрэг сэтгүүл, дугаар 2'
+        image: images/poster-2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: |
+          2020 оны 5 дугаар сарын 23-нд
         actions:
-          - label: Learn More
+          - label: Дэлгэрэнгүй
             url: /features
             style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Cool Feature of Your Services
-        image: images/feature3.png
+      - title: 'Бод Бод бэсрэг сэтгүүл, дугаар 3'
+        image: images/poster-3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: |
+          2020 оны 6 дугаар сарын 6-нд
         actions:
-          - label: Learn More
+          - label: Дэлгэрэнгүй
             url: /features
             style: secondary
             has_icon: true
@@ -68,29 +61,29 @@ sections:
     background: white
     title: Эшлэл
     reviews:
-      - author: Eric Widget
-        avatar: images/review1.jpg
-        avatar_alt: Eric Widget's photo
+      - author: Намжилдоржийн Энхбаяр
+        avatar_alt: lorem-ipsum
+        type: review_item
+        avatar: images/parallel-coriander.jpg
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Parsley Montana
-        avatar: images/review2.jpg
+          Аливаа вирус байгалийн бүтээл, байгалийн хууль, шинжлэх ухаанд л
+          захирагдахаас бус улс төрчдийн уриа лоозон, тогтоол шийдвэрт
+          захирагддаг зүйл биш гэдгийг хатуу ойлго!☝
+      - author: Баатарын Болд
         avatar_alt: Parsley Montana's photo
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-      - author: Jonquil Von Haggerston
-        avatar: images/review3.jpg
+        content: "Бид 11 тэрбум ам.долларыг зарцуулж байна. Энэ бол ганцхан хөрөнгө оруулагчаас гарч байгаа зардал. Хөрөнгө оруулалт гэхээр хөрөнгө авч байгаа мэт ойлгож болохгүй.\_ Хөрөнгө оруулалт бол\_ манай компаниас гарч байгаа зардал."
+        avatar: images/magnificent-crane.jpg
+      - author: Бядрангийн Лхагвасүрэн
+        avatar: images/governor1.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Эдийн засагт идэвхжил сул, инфляц 2%, импорт саарч харин валютын нѳѳц
+          $4.5 тэрбум байгаа, гадаад орчинд эерэг салхи сэвэлзэж, манай
+          экспортын үнэ өсөж байгаа энэ үед ханш санаа зовоох асуудал бус.
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
+    title: Дуугарвал дуу нэг
+    subtitle: bodoochin@gmail.com
     actions:
       - label: Get Started
         url: /signup

@@ -26,6 +26,7 @@ export default class Post extends React.Component {
                   </div>
                   )}
                   <div className="post-content">
+                      
                     {markdownify(_.get(this.props, 'page.markdown', null))}
                   </div>
                   <BlogPostFooter {...this.props} page={this.props.page} date_type={'long'} />
