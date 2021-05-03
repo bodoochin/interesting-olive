@@ -12,6 +12,7 @@ sections:
     actions:
       - label: Learn More
         style: primary
+        url: 'https://storyform.co/@elbegsaikhan.ts/---4aae2c074323'
   - section_id: features
     type: section_features
     background: gray
