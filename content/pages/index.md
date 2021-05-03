@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/screenstabbed_1620056629148.png
+    image: images/poster.jpg
     image_alt: App preview
     title: Өрөөсгөл бодлын бэсрэг сэтгүүл
     content: >
