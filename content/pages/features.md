@@ -6,22 +6,24 @@ sections:
     background: gray
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
-    title: The Best Features of Your Services
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    title: Би танд юугаар туслаж чадах вэ?
+    content: >
+      Дэм дэмэндээ гэдэгчлэн та бид бие биедээ харилцан тусласнаар илүү үр дүнд
+      хүрч чадна гэж итгэж байна. Хэрэв дараах чиглэлээр тусламж хэрэг болбол би
+      өөрийн чадах хэрээр туслах боломжтой. 
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      *   Дата цуглуулах, нийтлэл бичих, хэвлэн нийтлэх, мэргэжлийн хүмүүстэй
+      холбож өгөх
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
+      *   Дижитал ном, товхимлын эх бэлтгэх, нийтлэх
 
-      * Phasellus ut enim non lorem venenatis rutrum.
+      *   Интерактив контент бэлтгэх, 
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      Харин надтай сэдэв харгалзахгүй бодлоо хуваалцаж миний харах шугам/өнцгийг
+      өөрчлөхөд, алдааг минь засаж залруулахад таны тусламж үргэлж хэрэгтэй байх
+      болно.  
     actions:
       - label: Free Trial
         url: /signup
