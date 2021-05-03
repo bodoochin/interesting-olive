@@ -41,7 +41,7 @@ sections:
         content: |
           Тун удахгүй
         actions:
-          - label: Learn More
+          - label: Дэлгэрэнгүй
             url: /features
             style: secondary
             has_icon: true
