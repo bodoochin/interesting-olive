@@ -17,9 +17,6 @@ sections:
     type: section_features
     background: gray
     title: Санал болгоё
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
     features:
       - title: 'Бод Бод бэсрэг сэтгүүл, дугаар 1'
         image: images/cover.PNG
