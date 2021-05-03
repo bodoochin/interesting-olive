@@ -38,10 +38,8 @@ sections:
       - title: 'Бод Бод бэсрэг сэтгүүл, дугаар 2'
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: |
+          Тун удахгүй
         actions:
           - label: Learn More
             url: /features
