@@ -29,7 +29,7 @@ sections:
           зардалтай нь холбож харвал нэлээд тэгш бус байдал ажиглагдана.*
 
         actions:
-          - label: Learn More
+          - label: Дэлгэрэнгүй
             style: secondary
             has_icon: true
             icon: arrow-right
