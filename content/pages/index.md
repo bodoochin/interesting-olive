@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/poster.png
     image_alt: App preview
-    title: Дан бодлын бэсрэг сэтгүүл
+    title: "Дан бодлын\_ \_ бэсрэг сэтгүүл"
     content: >
       ###### Толгойд эргэлдсэн асуултуудад хариулт эрсэн эрэл. Тохиох цагийн
       бүртгэлийг тоймлож харсан зураглал.
