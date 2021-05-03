@@ -49,6 +49,8 @@ sections:
         image_alt: App user profile preview
         content: |
           2020 оны 6 дугаар сарын 6-нд
+
+          Сэдвээ хамтдаа сонгоцгооё
         actions:
           - label: Дэлгэрэнгүй
             url: /features
