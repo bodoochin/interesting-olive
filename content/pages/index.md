@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Санал болгоё
+    title: САНАЛ БОЛГОЁ
     features:
       - title: 'Бод Бод бэсрэг сэтгүүл, дугаар 1'
         image: images/cover.PNG
