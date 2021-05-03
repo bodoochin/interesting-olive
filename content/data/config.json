@@ -89,18 +89,18 @@
                     },
                     {
                         "label": "LinkedIn",
-                        "url": "https://www.linkedin.com/",
+                        "url": "https://www.linkedin.com/in/bodoochin/",
                         "style": "link",
                         "has_icon": true,
                         "icon": "linkedin",
                         "icon_position": "left"
                     },
                     {
-                        "label": "GitHub",
-                        "url": "https://github.com/",
+                        "label": "Instagram",
+                        "url": "https://instagram.com/bodoochin",
                         "style": "link",
                         "has_icon": true,
-                        "icon": "github",
+                        "icon": "instagram",
                         "icon_position": "left"
                     }
                 ]
@@ -124,18 +124,7 @@
             }
         ],
         "has_nav": true,
-        "nav_links": [
-            {
-                "label": "Terms of Service",
-                "url": "/terms-of-service",
-                "style": "link"
-            },
-            {
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
-                "style": "link"
-            }
-        ],
+        "nav_links": [],
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>."
     },
     "domain": "https://storyform.co/@elbegsaikhan.ts/---4aae2c074323"
