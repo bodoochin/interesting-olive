@@ -10,7 +10,7 @@ sections:
       ###### Толгойд эргэлдсэн асуултуудад хариулт эрсэн эрэл. Тохиох цагийн
       бүртгэлийг тоймлож харсан зураглал.
     actions:
-      - label: Learn More
+      - label: Дэлгэрэнгүй
         style: primary
         url: 'https://storyform.co/@elbegsaikhan.ts/---4aae2c074323'
   - section_id: features
