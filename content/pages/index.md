@@ -11,7 +11,6 @@ sections:
       бүртгэлийг тоймлож харсан зураглал.
     actions:
       - label: Learn More
-        url: /features
         style: primary
   - section_id: features
     type: section_features
