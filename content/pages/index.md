@@ -39,7 +39,7 @@ sections:
         image: images/poster-2.png
         image_alt: App users welcoming a new member
         content: |
-          Тун удахгүй
+          2020 оны тавдугаар сарын 23-нд
         actions:
           - label: Дэлгэрэнгүй
             url: /features
