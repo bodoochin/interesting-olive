@@ -1,6 +1,6 @@
 ---
 title: Цогтбаярын Элбэгсайхан
-subtitle: '-ы хувийн блог'
+subtitle: хувийн блог
 image: images/about.jpg
 image_alt: Team members in a conference room
 seo:
