@@ -108,7 +108,7 @@
             {
                 "type": "footer_form",
                 "title": "Бүртгэл",
-                "content": "Stay up to date with our latest developments.",
+                "content": "Бид удахгүй имэйл бүртгэлийг идэвхтэй болгоно\n",
                 "form_id": "contactForm",
                 "hide_labels": true,
                 "form_fields": [
