@@ -31,7 +31,27 @@ seo:
       relativeUrl: true
 layout: page
 ---
+Эдийн засаг, нийгмийн чиглэлээр 2011 оноос сурвалжилж, бичихэд суралцаж байгаа. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Сэтгүүл зүйд хүүхэд ахуйгаасаа сонирхол татагдсан. Орон нутгийн телевиз, радиод хөтлөгч, сурвалжлагч, сайн дурын ажилтан хийж байгаад МУИС-ийн Сэтгүүл зүйн оюутан болж элссэн. Үндэсний өдөр тутмын Ардчилал сонин, Аssa.mn, 24tsag.mn, Trends.mn мэдээллийн вебсайт, Сүлд, Хоёрдугаар Суваг ТВ-д туршлага хуримтлуулж Mongolian Economy сэтгүүлийн редактороор ажиллаж байсан. Одоогоор Asia Mining Magazine-д сэтгүүлч ажилтай. 
 
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+Сонирхдог сэдэв:
+
+1.  Төсөв, мөнгөний бодлого
+
+2.  Уул уурхай
+
+3.  Хөрөнгийн зах зээл
+
+4.  Хөрөнгө оруулалт
+
+5.  Крипто зах зээл
+
+6.  Хөдөлмөрийн зах зээл
+
+7.  Олон улсын харилцаа
+
+8.  Орон нутгийн харилцаа
+
+9.  Нийтийн удирдлага /public administration/
+
