@@ -30,12 +30,12 @@
                 "style": "link"
             },
             {
-                "label": "Захиалга",
+                "label": "Сэтгүүл захиалга",
                 "url": "/pricing",
                 "style": "link"
             },
             {
-                "label": "Sign Up",
+                "label": "Бүртгэл",
                 "url": "/signup",
                 "style": "primary"
             }
@@ -107,8 +107,8 @@
             },
             {
                 "type": "footer_form",
-                "title": "Subscribe",
-                "content": "Stay up to date with our latest developments.",
+                "title": "Бүртгэл",
+                "content": "Бид удахгүй имэйл бүртгэлийг идэвхтэй болгоно\n",
                 "form_id": "contactForm",
                 "hide_labels": true,
                 "form_fields": [
@@ -120,7 +120,7 @@
                         "is_required": true
                     }
                 ],
-                "submit_label": "Subscribe"
+                "submit_label": "Бүртгүүлэх"
             }
         ],
         "has_nav": true,
