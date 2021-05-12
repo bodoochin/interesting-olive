@@ -95,7 +95,7 @@ sections:
     title: Blog
 seo:
   title: bodbod
-  description: The preview of the Azimuth theme
+  description: personal blog
   extra:
     - name: 'og:type'
       value: website
