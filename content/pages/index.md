@@ -95,7 +95,7 @@ sections:
     title: Blog
 seo:
   title: bodbod
-  description: personal blog
+  description: Bodoochin's  personal blog
   extra:
     - name: 'og:type'
       value: website
