@@ -31,10 +31,6 @@ sections:
       - input_type: textarea
         name: message
         label: Зурвас
-      - input_type: checkbox
-        name: consent
-        is_required: true
-        default_value: йыөбөйыбө
     submit_label: Send Message
 seo:
   title: Contact
