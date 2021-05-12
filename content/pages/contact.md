@@ -28,7 +28,6 @@ sections:
           - халлижа нартмах
           - дасуБ
           - null
-          - lorem-ipsum
         is_required: false
       - input_type: textarea
         name: message
