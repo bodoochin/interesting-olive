@@ -30,7 +30,7 @@ sections:
           - lorem-ipsum
       - input_type: textarea
         name: message
-        label: Message
+        label: Зурвас
       - input_type: checkbox
         name: consent
         label: >-
