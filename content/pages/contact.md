@@ -22,13 +22,11 @@ sections:
       - input_type: select
         name: subject
         label: Сэдэв
-        default_value: Please select
+        default_value: Сонгоно уу
         options:
           - Алдаа засах
           - халлижа нартмах
           - дасуБ
-          - null
-          - lorem-ipsum
         is_required: false
       - input_type: textarea
         name: message
