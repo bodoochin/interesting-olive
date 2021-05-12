@@ -54,7 +54,7 @@
                 "title": "Company",
                 "nav_links": [
                     {
-                        "label": "About Us",
+                        "label": "Блогийн тухай",
                         "url": "/about",
                         "style": "link"
                     },
