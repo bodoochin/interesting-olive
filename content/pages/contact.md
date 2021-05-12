@@ -29,6 +29,7 @@ sections:
           - дасуБ
           - null
           - lorem-ipsum
+        is_required: true
       - input_type: textarea
         name: message
         label: Зурвас
