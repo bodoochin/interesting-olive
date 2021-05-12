@@ -18,7 +18,7 @@ sections:
     background: gray
     title: САНАЛ БОЛГОЁ
     features:
-      - title: 'Бод Бод бэсрэг сэтгүүл, дугаар 1'
+      - title: 'Бод Бод бэсрэг сэтгүүл, дугаар #1'
         image: images/cover.PNG
         image_alt: App preview on a phone and tablet
         content: >+
@@ -32,7 +32,7 @@ sections:
             icon: arrow-right
             icon_position: right
             url: 'https://storyform.co/@elbegsaikhan.ts/---4aae2c074323'
-      - title: 'Бод Бод бэсрэг сэтгүүл, дугаар 2'
+      - title: 'Бод Бод бэсрэг сэтгүүл, дугаар #2'
         image: images/poster-2.png
         image_alt: App users welcoming a new member
         content: |
@@ -44,7 +44,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: 'Бод Бод бэсрэг сэтгүүл, дугаар 3'
+      - title: 'Бод Бод бэсрэг сэтгүүл, дугаар #3'
         image: images/poster-3.png
         image_alt: App user profile preview
         content: |
