@@ -27,7 +27,6 @@ sections:
           - Алдаа засах
           - халлижа нартмах
           - дасуБ
-          - null
         is_required: false
       - input_type: textarea
         name: message
