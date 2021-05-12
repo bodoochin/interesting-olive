@@ -66,7 +66,7 @@ sections:
       - author: "Лувсаннамсрайн\_ \_ \_ \_ \_ \_ Оюун-Эрдэнэ"
         avatar_alt: lorem-ipsum
         type: review_item
-        avatar: images/parallel-coriander.jpg
+        avatar: images/123.PNG
         content: >-
           Эрдэнэт үйлдвэрийн баяжмалыг аль трэйдер компани авахыг өнгөрсөн 30
           жилд Ерөнхийлөгч шийддэг байсан
