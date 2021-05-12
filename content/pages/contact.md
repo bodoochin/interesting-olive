@@ -22,7 +22,7 @@ sections:
       - input_type: select
         name: subject
         label: Сэдэв
-        default_value: Please select
+        default_value: Сонгоно уу
         options:
           - Алдаа засах
           - халлижа нартмах
