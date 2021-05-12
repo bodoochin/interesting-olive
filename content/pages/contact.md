@@ -27,7 +27,7 @@ sections:
           - Алдаа засах
           - халлижа нартмах
           - дасуБ
-          - lorem-ipsum
+          - null
       - input_type: textarea
         name: message
         label: Зурвас
