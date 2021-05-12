@@ -25,7 +25,7 @@ sections:
         default_value: Please select
         options:
           - Алдаа засах
-          - маХ
+          - халлижа нартмах
           - Other
       - input_type: textarea
         name: message
