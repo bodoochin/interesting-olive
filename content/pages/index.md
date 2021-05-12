@@ -63,7 +63,7 @@ sections:
     background: white
     title: Эшлэл
     reviews:
-      - author: Оюун-Эрдэнэ
+      - author: Лувсаннамсрайн Оюун-Эрдэнэ
         avatar_alt: lorem-ipsum
         type: review_item
         avatar: images/parallel-coriander.jpg
