@@ -27,6 +27,7 @@ sections:
           - Алдаа засах
           - халлижа нартмах
           - Other
+          - lorem-ipsum
       - input_type: textarea
         name: message
         label: Message
