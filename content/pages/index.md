@@ -94,8 +94,8 @@ sections:
     background: gray
     title: Blog
 seo:
-  title: Stackbit Azimuth Theme
-  description: The preview of the Azimuth theme
+  title: bodbod
+  description: Bodoochin's  personal blog
   extra:
     - name: 'og:type'
       value: website
