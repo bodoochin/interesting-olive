@@ -24,7 +24,7 @@ sections:
         label: Сэдэв
         default_value: Please select
         options:
-          - Error on the site
+          - Алдаа засах
           - Sponsorship
           - Other
       - input_type: textarea
