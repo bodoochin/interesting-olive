@@ -25,7 +25,7 @@ sections:
         default_value: Please select
         options:
           - Алдаа засах
-          - Sponsorship
+          - Х
           - Other
       - input_type: textarea
         name: message
