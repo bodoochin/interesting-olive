@@ -44,7 +44,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: 'Бод Бод бэсрэг сэтгүүл, дугаар 3'
+      - title: 'Бод Бод бэсрэг сэтгүүл, дугаар #3'
         image: images/poster-3.png
         image_alt: App user profile preview
         content: |
