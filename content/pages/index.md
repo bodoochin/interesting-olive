@@ -18,7 +18,7 @@ sections:
     background: gray
     title: САНАЛ БОЛГОЁ
     features:
-      - title: 'Бод Бод бэсрэг сэтгүүл, дугаар 1'
+      - title: 'Бод Бод бэсрэг сэтгүүл, дугаар #1'
         image: images/cover.PNG
         image_alt: App preview on a phone and tablet
         content: >+
