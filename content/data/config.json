@@ -54,22 +54,22 @@
                 "title": "Company",
                 "nav_links": [
                     {
-                        "label": "About Us",
+                        "label": "Блогийн тухай",
                         "url": "/about",
                         "style": "link"
                     },
                     {
-                        "label": "Blog",
+                        "label": "Блог",
                         "url": "/blog",
                         "style": "link"
                     },
                     {
-                        "label": "Sign Up",
+                        "label": "Бүртгэл",
                         "url": "/signup",
                         "style": "link"
                     },
                     {
-                        "label": "Contact",
+                        "label": "Холбоо барих",
                         "url": "/contact",
                         "style": "link"
                     }

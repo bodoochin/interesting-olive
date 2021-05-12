@@ -4,7 +4,7 @@ sections:
   - section_id: contact
     type: section_contact
     background: gray
-    title: Contact
+    title: Холбоо барих
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
@@ -13,29 +13,26 @@ sections:
     form_fields:
       - input_type: text
         name: name
-        label: Name
+        label: Нэр
         is_required: true
       - input_type: email
         name: email
-        label: Email
+        label: имэйл
         is_required: true
       - input_type: select
         name: subject
-        label: Subject
+        label: Сэдэв
         default_value: Please select
         options:
-          - Error on the site
-          - Sponsorship
-          - Other
+          - Алдаа засах
+          - халлижа нартмах
+          - дасуБ
+          - null
+          - lorem-ipsum
+        is_required: false
       - input_type: textarea
         name: message
-        label: Message
-      - input_type: checkbox
-        name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-        is_required: true
+        label: Зурвас
     submit_label: Send Message
 seo:
   title: Contact
