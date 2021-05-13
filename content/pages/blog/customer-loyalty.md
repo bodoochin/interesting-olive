@@ -1,9 +1,7 @@
 ---
 title: Эринийг эхлүүлэгч
 subtitle: "Mongolian Economy сэтгүүлийн\_Мобиком компанийн 20 жилийн ойд зориулсан тусгай дугаарт хэвлэгдсан нийтлэл"
-excerpt: >-
-  A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-  amet commodo massa.
+excerpt: A story about customer loyalty
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
 image_alt: A group of people working in a cafe
