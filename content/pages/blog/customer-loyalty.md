@@ -4,7 +4,6 @@ subtitle: "Mongolian Economy сэтгүүлийн\_Мобиком компани
 excerpt: A story about customer loyalty
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
-image_alt: A group of people working in a cafe
 seo:
   title: Customer Loyalty Programs That Stick
   description: >-
