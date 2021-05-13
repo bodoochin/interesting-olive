@@ -2,7 +2,7 @@
 title: Эринийг эхлүүлэгч
 subtitle: "Mongolian Economy сэтгүүлийн\_Мобиком компанийн 20 жилийн ойд зориулсан тусгай дугаарт хэвлэгдсан нийтлэл"
 excerpt: A story about customer loyalty
-thumb_image: images/scientific-celery.jpg
+thumb_image: images/knowledgeable-potato.jpg
 thumb_image_alt: A group of people working in a cafe
 seo:
   title: Customer Loyalty Programs That Stick
