@@ -1,15 +1,9 @@
 ---
-title: Customer Loyalty Programs That Stick
-subtitle: A story about customer loyalty
-author: content/data/authors/jane-doe.yaml
-excerpt: >-
-  A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-  amet commodo massa.
-date: '2021-01-03'
-thumb_image: images/3_thumb.jpg
+title: Эринийг эхлүүлэгч
+subtitle: "Mongolian Economy сэтгүүлийн\_Мобиком компанийн 20 жилийн ойд зориулсан тусгай дугаарт хэвлэгдсан нийтлэл"
+excerpt: A story about customer loyalty
+thumb_image: images/knowledgeable-potato.jpg
 thumb_image_alt: A group of people working in a cafe
-image: images/3.jpg
-image_alt: A group of people working in a cafe
 seo:
   title: Customer Loyalty Programs That Stick
   description: >-
@@ -43,20 +37,37 @@ seo:
       value: images/3.jpg
       relativeUrl: true
 layout: post
+date: '2016-11-01'
+image: images/43787863_2015276355177088_2690968285649829888_n.jpg
 ---
+Бизнест анхдагч байна гэдэг хэн бүрийн зориглох зүйл биш. Анхдагчид бүх эрсдэлийг үүрч, хамгийн түрүүнд сорилтуудтай нүүр тулдаг. Эсрэгээрээ  асуудал, шийдэл нь тодорхойлогдсоны дараа тэдний зассан замыг дагах нь үргэлж эрсдэлгүй, амар хялбар байдаг. Харин анхдагчид үргэлж шинэ санаа, шинэ бүтээгдэхүүнүүд гаргаж, хөгжил дэвшлийг бий болгож байдаг учир тэдний гавьяаг хэн ч булаах
+боломжгүй.  
 
-**Loyalty** curabitur sed consectetur nisi. Integer sit amet commodo massa. Cras posuere justo magna, id placerat ligula vulputate malesuada. Aenean a ipsum quis neque ornare placerat eu eu orci. Nullam feugiat sed ante in euismod. Pellentesque a nibh dolor. Donec ultrices lacus eget orci commodo ultricies. Morbi placerat purus non varius egestas. Ut tempus ligula quis lorem suscipit, sed vulputate dolor placerat. Aliquam ut massa placerat, vehicula erat non, mattis leo. Pellentesque egestas velit sit amet lectus lobortis, sit amet pharetra ipsum porta. Nullam massa nulla, tincidunt vel volutpat vel, commodo id leo. Curabitur id volutpat lacus, sed commodo velit. Quisque facilisis consectetur nisl vitae vulputate. Proin porttitor ipsum ut diam faucibus, scelerisque posuere ex euismod. Aenean posuere bibendum egestas.
+20 жил... Өмнөх зууны төгсгөлд оюутан ахуй насаа үдсэн хүмүүс “Саяхан даа” л гэж хэлнэ. Аймгийн төвд бол гэртээ суурин утастай айл
+төдий л олон биш. Сумын төвд бол “холбоо” л холыг ойртуулж, хоёрыг учруулна. Улаанбаатарын “Төв шуудан”-д хүмүүс утсаар ярих ээлжээ хүлээнэ, хаалган дээр нь дугаарласан жижиг бүхээг дотроос хэн нэгэн нь “Байна уу, ээж үү?” хэмээх нь сонстоно. Ийн ярилцахын тулд тэд магад долоо хоногийн өмнө шуудангаар захидал илгээн өдөр товлосон биз ээ. Өнөөдөр энэ дүр зургийг мэдэхгүй, төсөөлөхгүй үеийнхэн олон болж. 
 
-## Customer
+Тэгвэл, Монголын уран сайхны “Өнөр бүл” киног үе үеийн үзэгчид сайн мэднэ. Гармаа сонины газраас залруулга бичиж өгсөн тэр нэг тамгатай нарийхан цаасыг Цэрмаад хүргэх гэж ямар их адал явдлыг туулдаг билээ дээ. 1980-аад оны дүр зураг. Мобикомоос өмнөх харилцаа холбоо ийм л байсан. 
 
-Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur aliquet rhoncus sed, hendrerit vel odio. Etiam pharetra neque vel gravida tincidunt. Etiam consequat commodo elit id eleifend. Nullam eu justo eu odio pretium feugiat. Sed non neque dui. Fusce leo erat, imperdiet quis pulvinar vitae, consequat quis dolor. Curabitur eu quam et odio vehicula auctor convallis nec ipsum. Nam vitae dui sapien. Pellentesque vitae lorem id ipsum lacinia consectetur id a erat. Nulla semper ut erat vel vulputate. Nulla sagittis dui ut dapibus euismod. Phasellus et dui posuere, lobortis erat a, pretium nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas molestie ut tellus in convallis. Cras luctus urna quis velit volutpat, semper venenatis mauris auctor.
+Тэр үеэс өнөөг хүртэл Мобиком олон шинэ үйлчилгээний анхдагч байж ирлээ. Үүрэн холбооны хоёр дахь эрин (2G) гар утаснаасаа мессэж илгээх, гурав дахь үе (3G) дата үйлчилгээ, гар утсаараа дүрсээ харж ярилцах боломжийг анхлан Мобиком зах зээлд нэвтрүүлсэн билээ. Зөвхөн үүнд үндэслэж тус компанийг Монгол Улсад XXI зууны хөгжлийг түүчээлэгч хэмээн нэрийдэхэд ононо уу гэхээс алдахгүй. Үүрэн холбооны үйлчилгээ бий болсноор монголчууд шинэ хурдыг эзэмшсэн. Зөвхөн мэдээлэл дамжуулах тухай биш, хүмүүс секунд ч хоцролгүй мэдээлэл авдаг болсноор цагаа олж зөв шийдвэр гаргаж чадах болсон юм. 
 
-## Loyalty Programs
+Хоёр жилийн өмнө тэд үндэсний гэж хэлж болох цахим мөнгийг хамгийн анх хэрэглээнд нэвтрүүлээд байна. Хэрэглээнээсээ хуримтлуулдаг “Candy” бол Санхүүгийн зохицуулах хорооноос баталгаажсан цор ганц цахим мөнгө юм. Үүгээрээ хэрэглээг урамшуулдаг бусад лояалти үйлчилгээнүүдээс ялгарч чадна. Нэг “чихэр” нэг төгрөгтэй тэнцүү. 20 Саndy-гээр та худгаас 20 литр ус авч болно. 
 
-Aenean dui sem, sollicitudin non venenatis eget, gravida rutrum risus. Proin massa leo, convallis id orci at, convallis dignissim mi. Integer et arcu arcu. Sed tristique diam id elit iaculis accumsan. Donec vehicula libero nunc, quis dictum orci pharetra nec. Proin blandit pellentesque sapien et sodales. Phasellus convallis sapien venenatis semper iaculis. Curabitur commodo iaculis mi, nec gravida nunc pellentesque ac. Nullam ac felis est. Donec gravida arcu ipsum, ut pulvinar est scelerisque id. Duis lobortis ante eu ante volutpat, quis pharetra sapien mattis. Sed ex enim, accumsan ut volutpat a, consectetur iaculis urna. Donec tempus enim sed porta euismod.
+Эсвэл гэрийнхээ цахилгааны төлбөрийг хийчихнэ. Цаашлаад “Мобиком”-оос нэгж, “Caffe Bene”-гээс кофе, “Монос”-оос эм гэх мэтчилэн цахим мөнгөөр тооцоо хийдэг үйлчилгээний газрууд, орон нутаг дахь гэрээт борлуулагчидтай төлбөр тооцоо хийх боломжтой болж монголчууд цахим мөнгөний эринд хөл тавиад байна.
 
-> The strength of brand loyalty begins with how your product makes people feel. - Jay Samit
+Өнгөрсөн хугацаанд Мобиком Корпораци улсын төсөвт 518 тэрбум төгрөгийн татварын орлого хуримтлуулжээ (2015 оны эцсийн дүн). Уул уурхай, түүхий эдийн үнэ цойлсон хэдэн жилийг эс тооцвол улсад төлсөн татварынхаа хэмжээгээр тогтмол “ТОП-5”-д багтаж, өнгөрсөн оны жагсаалтад хувийн хэвшлийнхнээ манлайлсан. Тэдний Монгол Улсын харилцаа холбооны салбар, технологийн дэвшилд хийсэн хөрөнгө оруулалт нь их наядаар хэмжигдэж байна.
 
-Nam mauris leo, mattis in finibus sit amet, mattis vitae libero. In sed leo purus. Fusce ac suscipit nisl. Vestibulum tristique neque nec lacus finibus porta. In erat libero, pellentesque non sodales quis, mollis a elit. Vestibulum viverra dui ut ornare maximus. Aliquam at odio quis magna convallis euismod.
+Үндсэндээ компанийн ашиг эргээд хөрөнгө оруулалтын зардал болдог хэмээн Мобиком Корпорацийн Бүтээгдэхүүн, маркетингийн газрын захирал М.Энхсайхан хэлсэн юм. Гадаадын хөрөнгө оруулалттай компани учраас хамаг орлогоо гадагш урсгадаг гэх хардалт олны дунд бий. Гэвч үнэн хэрэгтээ гадаадын хөрөнгө оруулалтыг Монголын зах зээлд татаж авчирснаар өнөөгийн амжилтад хүрч, энэ баялгийг бүтээсэн билээ. “Хэрэв ганцаараа хийвэл 100 төгрөг олох ажлыг хамтарч хийснээр орлогоо 120 төгрөг болгож байвал гадаадын хөрөнгө оруулалт хэрэгтэй.
 
-Integer nisi nisi, hendrerit a ultrices ut, facilisis at odio. Suspendisse aliquet sed magna in bibendum. Praesent sit amet tincidunt purus. Cras sollicitudin at ante semper feugiat. Sed sem sem, dignissim id aliquet ac, interdum fringilla ipsum. Proin laoreet metus leo, et tempor felis aliquam at. Cras eget urna vehicula, elementum tellus a, tempor odio. Morbi pretium augue erat, et suscipit metus varius non. Quisque vitae lectus id mi consequat laoreet. Nam non molestie elit. Proin iaculis vel ex non rhoncus. Donec metus velit, blandit quis arcu quis, venenatis sodales velit.
+Эсрэгээрээ 80 төгрөг болон буурч байгаа бол шаардлагагүй байжээ гэж ойлгож болно” хэмээн М.Энхсайхан захирал тайлбарласан юм. Тэгэхээр Мобикомын хувьд энэхүү хөрөнгө оруулалт нь Монголын ард түмэнд ашгаа өгсөн болох нь харагдаж байна. 
+
+Өнөөдөр тус корпораци нийт 1500 гаруй хүнийг ажлын байраар хангаж байна. Тэдний 99% нь Монголын иргэд. Энэ нь магад 1500 монгол
+айлын орлогын шууд эх үүсвэр болдог гэсэн үг. Корпорацийн хувьд ч ажилтнуудынхаа гэр бүлийг дэмжиж, тэдний нийгмийн асуудлыг шийдвэрлэхэд анхаардаг нь байгууллагын тэргүүн зарчим ажээ. Тухайлбал, шинээр гэр бүл болсон ажилтнуудад 25.5 сая, шинэ хүүхэдтэй болсон ажилтнуудад 46.8 сая, алдарт эхийн I, II одонтой ээжүүдэд 20.2 сая төгрөг олгожээ. Мөн ажилтнуудын жил бүрийн эмнэлгийн үзлэг болон эрүүл мэнд, ослын даатгалд 270 гаруй сая төгрөгийг зарцуулсан байна. 
+
+Түүнчлэн дотоодын боловсролын байгууллагуудтай хамтран хагас жил тутамд ажилчдаа сургалтад хамруулж, нарийн мэргэжилтэн, тухайлбал
+инженерүүдээ гадаадад тэтгэлэгтэйгээр сургадаг аж. Харин Мобикомын ажилтнуудын бахархал нь хариуцлагаа ухамсарласан, нэр хүндтэй компанийн нэг эд, эс нь байх явдал. Тэр дундаа “Мобиком бол итгэл хүлээсэн компани” гэдэг нь хамгийн чухал. 
+
+Мобикомыг шинэ технологийг нэвтрүүлнэ гэхэд эргэлзэх хүн байдаггүй. Бүр үзэн ядагч нь байсан ч шүү. Хэдийгээр тариф нь үнэтэй гэж зарим нь шүүмжилдэг ч 20 жилийн турш зах зээл дээр тэргүүлэгчийн байр сууриа хадгалсаар л байна. Өнөөдөр Монгол Улсын хүн амын талаас илүү нь тус компанийн үйлчлүүлэгч. Хэрэглэгчдийнхээ тоогоор нийт зах зээлийн 40-өөс илүү хувийг эзэлдэг “Давамгайлагч” гэх статустай. Давамгайлагч тарифаа хэт бууруулбал өрсөлдөгчдөө зах зээлээс шахан гаргаж, монополь болон үлдэнэ. Тиймд Мобикомын үнэ тарифын асуудлыг төрөөс тусгайлан хууль журмаар зохицуулж байдаг аж. Үнэ бол өрсөлдөх чадварын чухал хүчин зүйл. Ийм нөхцөлд ч тэд хэрэглэгчдийнхээ нэгдүгээр сонголт байсаар буйг итгэл даадаг чанар, шинэлэг үйлчилгээтэй нь холбон тайлбарлахаас өөр аргагүй
+юм. 
+
+Ийнхүү Мобиком анх байгуулагдсан нь Монгол Улсад хөгжлийн нэгэн шинэ эрин үеийн эхлэл болсон шигээ, компанийн хөрөнгө оруулалт бүр нь
+дэлхийн хөгжил дэвшилтэй монголчуудыг мөр зэрэгцэн алхуулах гэсэн зорилго байсаар иржээ.
