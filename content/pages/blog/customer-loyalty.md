@@ -1,6 +1,8 @@
 ---
 title: Эринийг эхлүүлэгч
-subtitle: A story about customer loyalty
+subtitle: >-
+  Мобиком компанийн 20 жилийн ойд зориулсан Mongolian Economy сэтгүүлийн тусгай
+  дугаарт хэвлэгдсан нийтлэл
 excerpt: >-
   A story about customer loyalty curabitur sed consectetur nisi. Integer sit
   amet commodo massa.
