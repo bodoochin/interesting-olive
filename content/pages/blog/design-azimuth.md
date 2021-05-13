@@ -4,7 +4,7 @@ excerpt: >-
   Quisque ultrices metus sed libero ultricies condimentum. Suspendisse ut
   faucibus purus. Mauris at pharetra risus.
 author: content/data/authors/jane-doe.yaml
-date: '2018-01-09'
+date: '2011-01-09'
 thumb_image: images/6_thumb.jpg
 image: images/6.jpg
 seo:
