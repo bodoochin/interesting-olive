@@ -7,7 +7,7 @@ excerpt: >-
   Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
   aliquet rhoncus sed, hendrerit vel odio.
 author: content/data/authors/jane-doe.yaml
-date: '2019-03-27'
+date: '0002-03-27'
 thumb_image: images/10_thumb.jpg
 thumb_image_alt: Business people in a meeting
 image: images/10.jpg
