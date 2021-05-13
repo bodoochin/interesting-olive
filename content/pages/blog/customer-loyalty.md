@@ -1,5 +1,5 @@
 ---
-title: Customer Loyalty Programs That Stick
+title: Эринийг эхлүүлэгч
 subtitle: A story about customer loyalty
 excerpt: >-
   A story about customer loyalty curabitur sed consectetur nisi. Integer sit
