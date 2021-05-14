@@ -7,7 +7,7 @@ excerpt: >-
   Квийнслэндчүүд ашиглаж чадсаны ул мөр энэ аж.
 thumb_image: images/19264473_10213275436740809_2869880299612453824_o.jpg
 thumb_image_alt: People in a conference room
-image: images/9.jpg
+image: images/Rehab-with-horse@2x.jpg
 image_alt: People in a conference room
 seo:
   title: The Advantages and Disadvantages of Working from Home
