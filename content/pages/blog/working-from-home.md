@@ -5,7 +5,6 @@ excerpt: >-
   (нэг талаас Азийн баруудыг санагдуулам) геометрийн дүрс, хэлбэртэй шил толин
   цамхгууд сүндэрлэнэ. Товчхондоо, бидний ярьж шогширдог “супер цикл”-ийг
   Квийнслэндчүүд ашиглаж чадсаны ул мөр энэ аж.
-author: content/data/authors/jane-doe.yaml
 date: '2011-04-22'
 thumb_image: images/9_thumb.jpg
 thumb_image_alt: People in a conference room
