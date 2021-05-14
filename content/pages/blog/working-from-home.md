@@ -6,7 +6,6 @@ excerpt: >-
   цамхгууд сүндэрлэнэ. Товчхондоо, бидний ярьж шогширдог “супер цикл”-ийг
   Квийнслэндчүүд ашиглаж чадсаны ул мөр энэ аж.
 thumb_image: images/groovy-turmeric.jpg
-thumb_image_alt: People in a conference room
 image: images/Rehab-with-horse@2x.jpg
 seo:
   title: The Advantages and Disadvantages of Working from Home
