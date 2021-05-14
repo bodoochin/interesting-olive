@@ -26,10 +26,6 @@
                 "type": "action"
             },
             {
-                "url": "/features",
-                "style": "link"
-            },
-            {
                 "label": "Сэтгүүл захиалга",
                 "url": "/pricing",
                 "style": "link"
