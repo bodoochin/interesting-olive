@@ -1,5 +1,5 @@
 {
-    "title": "Azimuth",
+    "title": "bodbod",
     "path_prefix": "/",
     "base_font": "nunito-sans",
     "palette": "blue",
@@ -24,10 +24,6 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
-            },
-            {
-                "url": "/features",
-                "style": "link"
             },
             {
                 "label": "Сэтгүүл захиалга",
