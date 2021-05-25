@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/poster.png
+    image: images/12.PNG
     image_alt: App preview
     title: "Дан бодлын\_ \_ бэсрэг сэтгүүл"
     content: >
