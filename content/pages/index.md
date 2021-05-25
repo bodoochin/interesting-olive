@@ -33,7 +33,7 @@ sections:
             icon_position: right
             url: 'https://storyform.co/@elbegsaikhan.ts/---4aae2c074323'
       - title: 'Бод Бод бэсрэг сэтгүүл, дугаар #2'
-        image: images/poster-2.png
+        image: images/12-1.png
         image_alt: App users welcoming a new member
         content: >+
           “Жи хороолол” ба Зайсангийнхан гэх хоёр туйл бий. Энэ хоёр туйл
