@@ -3,7 +3,6 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/12-2.png
     image_alt: App preview
     title: 'Бод Бод бэсрэг сэтгүүл, дугаар #2'
     content: >
