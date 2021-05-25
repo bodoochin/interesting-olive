@@ -3,9 +3,8 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/poster.png
     image_alt: App preview
-    title: "Дан бодлын\_ \_ бэсрэг сэтгүүл"
+    title: 'Бод Бод бэсрэг сэтгүүл, дугаар #2'
     content: >
       ###### Толгойд эргэлдсэн асуултуудад хариулт эрсэн эрэл. Тохиох цагийн
       бүртгэлийг тоймлож харах оролдлого.
@@ -13,6 +12,7 @@ sections:
       - label: Дэлгэрэнгүй
         style: primary
         url: 'https://storyform.co/@elbegsaikhan.ts/---4aae2c074323'
+    image: images/violet-tulip.png
   - section_id: features
     type: section_features
     background: gray
@@ -33,13 +33,17 @@ sections:
             icon_position: right
             url: 'https://storyform.co/@elbegsaikhan.ts/---4aae2c074323'
       - title: 'Бод Бод бэсрэг сэтгүүл, дугаар #2'
-        image: images/poster-2.png
+        image: images/12-1.png
         image_alt: App users welcoming a new member
-        content: |
-          2020 оны 5 дугаар сарын 23-нд
+        content: >+
+          “Жи хороолол” ба Зайсангийнхан гэх хоёр туйл бий. Энэ хоёр туйл
+          байгалийн шалгарлаар юм уу, таталцал, түлхэлцлийн хуулиараа ар, өвөр
+          талдаа гарсан гэвэл үнэнд нийцэхгүй. Яавч тогтолцооны алдаа, ардчилсан
+          нийгмийн шийдвэрлэгдээгүй асуудал биш.
+
         actions:
           - label: Дэлгэрэнгүй
-            url: /features
+            url: 'https://sway.office.com/ejzOt0BSXjjXEebl'
             style: secondary
             has_icon: true
             icon: arrow-right
