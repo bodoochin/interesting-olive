@@ -43,7 +43,7 @@ sections:
 
         actions:
           - label: Дэлгэрэнгүй
-            url: 'https://sway.office.com/ejzOt0BSXjjXEebl'
+            url: 'https://sway.office.com/ejzOt0BSXjjXEebl?ref=Link'
             style: secondary
             has_icon: true
             icon: arrow-right
