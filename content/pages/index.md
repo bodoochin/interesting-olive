@@ -11,7 +11,7 @@ sections:
     actions:
       - label: Дэлгэрэнгүй
         style: primary
-        url: 'https://storyform.co/@elbegsaikhan.ts/---4aae2c074323'
+        url: 'https://sway.office.com/ejzOt0BSXjjXEebl?ref=Link'
     image: images/violet-tulip.png
   - section_id: features
     type: section_features
@@ -43,7 +43,7 @@ sections:
 
         actions:
           - label: Дэлгэрэнгүй
-            url: 'https://sway.office.com/ejzOt0BSXjjXEebl'
+            url: 'https://sway.office.com/ejzOt0BSXjjXEebl?ref=Link'
             style: secondary
             has_icon: true
             icon: arrow-right
