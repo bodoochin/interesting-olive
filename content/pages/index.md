@@ -39,7 +39,7 @@ sections:
           2020 оны 5 дугаар сарын 23-нд
         actions:
           - label: Дэлгэрэнгүй
-            url: '/https://sway.office.com/ejzOt0BSXjjXEebl'
+            url: /features
             style: secondary
             has_icon: true
             icon: arrow-right
