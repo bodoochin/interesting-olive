@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/screenstabbed_1621934240206.png
     image_alt: App preview
-    title: "Дан бодлын\_ \_ бэсрэг сэтгүүл"
+    title: 'ДБод Бод бэсрэг сэтгүүл, дугаар #2'
     content: >
       ###### Толгойд эргэлдсэн асуултуудад хариулт эрсэн эрэл. Тохиох цагийн
       бүртгэлийг тоймлож харах оролдлого.
