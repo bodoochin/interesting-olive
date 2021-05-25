@@ -12,6 +12,7 @@ sections:
       - label: Дэлгэрэнгүй
         style: primary
         url: 'https://storyform.co/@elbegsaikhan.ts/---4aae2c074323'
+    image: images/violet-tulip.png
   - section_id: features
     type: section_features
     background: gray
