@@ -67,7 +67,7 @@ sections:
     background: white
     title: Эшлэл
     reviews:
-      - author: "Лувсаннамсрайн\_ \_ \_ \_ \_ \_ Оюун-Эрдэнэ"
+      - author: Ухнаагийн Хүрэлсүх
         avatar_alt: lorem-ipsum
         type: review_item
         avatar: images/хүрэлсүх.PNG
