@@ -82,7 +82,7 @@ sections:
           дэмжинэ. Би эрх мэдэл цуглуулдаг, булаацалддаг ерөнхийлөгч болохгүй.
           Ерөнхийлөгчид хэрэггүй бүрэн эрхээс татгалзах шинэтгэлийг санаачлан
           ажиллана.
-        avatar: images/magnificent-crane.jpg
+        avatar: images/энхбат.PNG
       - author: Намжилдоржийн Энхбаяр
         avatar: images/parallel-coriander.jpg
         avatar_alt: Jonquil Von Haggerston's photo
