@@ -84,7 +84,7 @@ sections:
           ажиллана.
         avatar: images/энхбат.PNG
       - author: Намжилдоржийн Энхбаяр
-        avatar: images/parallel-coriander.jpg
+        avatar: images/эрдэнэ.PNG
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
           Өнөөдрийн сонгууль бол туйлын хариуцлагатай сонгууль. Хэн нэгэн хувь
