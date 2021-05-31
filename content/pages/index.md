@@ -70,7 +70,7 @@ sections:
       - author: "Лувсаннамсрайн\_ \_ \_ \_ \_ \_ Оюун-Эрдэнэ"
         avatar_alt: lorem-ipsum
         type: review_item
-        avatar: images/123.PNG
+        avatar: images/хүрэлсүх.PNG
         content: >-
           Миний бие хэлснээ хэрэгжүүлж, эхлүүлснээ дуусгахын төлөө
           Ерөнхийлөгчийн сонгуульд нэр дэвшиж байна. Хүчирхэг эдийн засагтай,
