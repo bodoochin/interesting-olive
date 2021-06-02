@@ -6,8 +6,10 @@ class MyDocument extends Document {
     {
     return (
       <Html>
+        
         <Head /> <script data-ad-client="ca-pub-2046685359059262" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <body>
+        </Head> 
+      <body>
           <Main />
           <NextScript />
         </body>
