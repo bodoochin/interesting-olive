@@ -4,15 +4,17 @@ sections:
   - section_id: hero
     type: section_hero
     image_alt: App preview
-    title: 'Бод Бод бэсрэг сэтгүүл, дугаар #2'
+    title: "Саналаа хэрхэн\_ өгөх вэ?"
     content: >
-      ###### Толгойд эргэлдсэн асуултуудад хариулт эрсэн эрэл. Тохиох цагийн
-      бүртгэлийг тоймлож харах оролдлого.
+      ###### Монгол Улсын зургаа дахь Ерөнхийлөгчийг сонгох сонгууль эхэллээ.
+      Саналаа өгөхөөс өмнө хүмүүс энэ талаар нэг тунгаагаасай гэж бодсон зүйлээ
+      товчхон сийрүүлье.&#xA;
     actions:
       - label: Дэлгэрэнгүй
         style: primary
-        url: 'https://sway.office.com/ejzOt0BSXjjXEebl?ref=Link'
-    image: images/violet-tulip.png
+        url: >-
+          https://app.stackbit.com/studio/6041ff6264965a0016c98cc3#/blog/sanalaa-herhen-ogoh-ve/
+    image: images/31.jpg
   - section_id: features
     type: section_features
     background: gray
