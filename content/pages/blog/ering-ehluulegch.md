@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Эринийг эхлүүлэгч
 subtitle: lorem-ipsum
 date: '2021-06-03'
 excerpt: lorem-ipsum
