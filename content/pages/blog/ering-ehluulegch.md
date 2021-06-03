@@ -1,6 +1,6 @@
 ---
 title: Эринийг эхлүүлэгч
-subtitle: lorem-ipsum
+subtitle: Мобиком корпорацийн 25 жилийн ойгоор Mongolian Economy
 date: '2021-06-03'
 excerpt: lorem-ipsum
 image_alt: lorem-ipsum
