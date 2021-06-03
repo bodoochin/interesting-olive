@@ -1,7 +1,7 @@
 ---
 title: Байгальд хайртай хүмүүс
 subtitle: Австрали улсын Квийнслэнд мужийн уул уурхайн туршлагыг сурвалжилсан нь
-date: '2021-06-03'
+date: '0002-06-03'
 excerpt: lorem-ipsum
 image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
