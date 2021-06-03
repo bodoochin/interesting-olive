@@ -1,6 +1,6 @@
 ---
 title: lorem-ipsum
-subtitle: lorem-ipsum
+subtitle: Австрали улсын Квийнслэнд мужийн уул уурхайн туршлагыг сурвалжилсан нь
 date: '2021-06-03'
 excerpt: lorem-ipsum
 image_alt: lorem-ipsum
