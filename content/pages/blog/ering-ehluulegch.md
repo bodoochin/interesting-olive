@@ -1,6 +1,8 @@
 ---
 title: Эринийг эхлүүлэгч
-subtitle: Мобиком корпорацийн 25 жилийн ойгоор Mongolian Economy
+subtitle: >-
+  Мобиком корпорацийн 25 жилийн ойгоор Mongolian Economy сэтгүүлд хэвлэгдсэн
+  нийтлэл
 date: '2021-06-03'
 excerpt: lorem-ipsum
 image_alt: lorem-ipsum
