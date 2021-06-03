@@ -1,6 +1,6 @@
 ---
 title: Саналаа хэрхэн өгөх вэ
-subtitle: lorem-ipsum
+subtitle: Бод Бод бэсрэг онлайн сэтгүүлийн хоёр дахь дугаарын нийтлэл
 date: '2021-06-03'
 excerpt: lorem-ipsum
 image_alt: lorem-ipsum
