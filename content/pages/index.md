@@ -12,7 +12,8 @@ sections:
     actions:
       - label: Дэлгэрэнгүй
         style: primary
-        url: 'https://sway.office.com/ejzOt0BSXjjXEebl?ref=Link'
+        url: >-
+          https://app.stackbit.com/studio/6041ff6264965a0016c98cc3#/blog/sanalaa-herhen-ogoh-ve/
     image: images/31.jpg
   - section_id: features
     type: section_features
