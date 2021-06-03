@@ -12,7 +12,7 @@ sections:
       - label: Дэлгэрэнгүй
         style: primary
         url: 'https://sway.office.com/ejzOt0BSXjjXEebl?ref=Link'
-    image: images/violet-tulip.png
+    image: images/31.jpg
   - section_id: features
     type: section_features
     background: gray
