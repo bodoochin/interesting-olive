@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image_alt: App preview
-    title: Саналаа хэрхэн өгөх вэ?
+    title: "Саналаа хэрхэн\_ өгөх вэ?"
     content: >
       ###### Толгойд эргэлдсэн асуултуудад хариулт эрсэн эрэл. Тохиох цагийн
       бүртгэлийг тоймлож харах оролдлого.
