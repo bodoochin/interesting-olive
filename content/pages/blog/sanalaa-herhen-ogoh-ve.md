@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: images/31.jpg
+image: images/modern-eggplant.jpg
 ---
 Монгол Улсын зургаа дахь Ерөнхийлөгчийг сонгох сонгууль эхэллээ. Саналаа өгөхөөс өмнө хүмүүс энэ талаар нэг тунгаагаасай гэж бодсон зүйлээ товчхон сийрүүлье. 
 
