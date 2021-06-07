@@ -12,8 +12,7 @@ sections:
     actions:
       - label: Дэлгэрэнгүй
         style: primary
-        url: >-
-          https://app.stackbit.com/studio/6041ff6264965a0016c98cc3#/blog/sanalaa-herhen-ogoh-ve/
+        url: 'https://bodbod.tk/blog/sanalaa-herhen-ogoh-ve/'
     image: images/сонгууль.png
   - section_id: features
     type: section_features
