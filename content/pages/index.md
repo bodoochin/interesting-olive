@@ -53,9 +53,7 @@ sections:
         image: images/poster-3.png
         image_alt: App user profile preview
         content: |
-          2020 оны 6 дугаар сарын 6-нд
-
-          (Сэдэв санал болговол нээлттэй)
+          удахгүй
         actions:
           - label: Дэлгэрэнгүй
             url: /features
